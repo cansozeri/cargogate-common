@@ -12,7 +12,7 @@ You have to use one of these packages for PHP-HTTP message factory!!
 
 * guzzlehttp/psr7
 * slim/slim
-* zendframework/zend-diactoros
+* laminas/laminas-diactoros
 
 You have to use one of these packages for PHP-HTTP client Factory!!
 
